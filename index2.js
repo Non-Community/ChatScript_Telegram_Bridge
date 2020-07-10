@@ -1,3 +1,5 @@
+const net = require('net');
+
 const prefix = 'username\x00harry\x00';
 
 const post   = '\x00'
